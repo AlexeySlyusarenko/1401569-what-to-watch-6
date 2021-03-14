@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import {
-  dataCard
+  DATA_CARD
 } from './data/data-card.js';
 
 import App from './components/app.jsx';
@@ -15,7 +15,7 @@ const pageMain = {
 
 ReactDOM.render(
     <App
-      cards={dataCard}
+      cards={DATA_CARD}
       pageMain = {pageMain}
     />,
     document.getElementById(`root`)

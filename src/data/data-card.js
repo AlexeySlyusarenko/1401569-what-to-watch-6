@@ -1,4 +1,4 @@
-const dataCard = [
+const DATA_CARD = [
   `Fantastic Beasts: The Crimes of Grindelwald`,
   `Fantastic Beasts: The Crimes of Grindelwald`,
   `Fantastic Beasts: The Crimes of Grindelwald`,
@@ -23,5 +23,5 @@ const dataCard = [
 ];
 
 export {
-  dataCard,
+  DATA_CARD,
 };
